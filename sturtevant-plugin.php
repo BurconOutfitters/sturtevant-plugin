@@ -8,12 +8,12 @@
  * @version     1.0.0
  * @author      Greg Sweet <greg@ccdzine.com>
  * @copyright   Copyright © 2018, Greg Sweet
- * @link        https://github.com/ControlledChaos/sturtevant-plugin
- * @link        https://github.com/ControlledChaos/controlled-chaos-plugin
+ * @link        https://github.com/BurconOutfitters/sturtevant-plugin
+ * @link        https://github.com/BurconOutfitters/burcon-plugin
  * @license     GPL-3.0+ http://www.gnu.org/licenses/gpl-3.0.txt
  *
  * Plugin Name: Sturtevant Camp
- * Plugin URI:  https://github.com/ControlledChaos/sturtevant-plugin
+ * Plugin URI:  https://github.com/BurconOutfitters/sturtevant-plugin
  * Description: Functionality sepecific to the Sturtevant Camp website.
  * Version:     1.0.0
  * Author:      Controlled Chaos Design
