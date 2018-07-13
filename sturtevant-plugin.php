@@ -2,8 +2,6 @@
 /**
  * Sturtevant Camp plugin
  *
- * Change this header information to suit your needs.
- *
  * @package     Sturtevant_Plugin
  * @version     1.0.0
  * @author      Greg Sweet <greg@ccdzine.com>
