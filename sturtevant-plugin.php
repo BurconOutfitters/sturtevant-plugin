@@ -133,10 +133,6 @@ if ( ! defined( 'STURTEVANT_VERSION' ) ) {
  *
  * This URL slug is used for various plugin admin & settings pages.
  *
- * The prefix will change in your search & replace in renaming the plugin.
- * Change the second part of the define(), here as 'controlled-chaos-plugin',
- * to your preferred page slug.
- *
  * @since  1.0.0
  * @return string Returns the URL slug of the admin pages.
  */
