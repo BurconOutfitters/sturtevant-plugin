@@ -50,11 +50,6 @@ if ( ! defined( 'STURTEVANT_PARENT' ) ) {
 /**
  * Define the parent plugin prefix for filters and options.
  *
- * The default prefix of Burcon Outfitters is `burcon`. If you
- * have rename the parent plugin the change the prefix here.
- *
- * Do not include a trailing hyphen (-) or an trailibg underscore (_).
- *
  * @since  1.0.0
  * @return string Returns the prefix without.
  */
@@ -88,12 +83,6 @@ if ( ! defined( 'STURTEVANT_CHILD_NAME' ) ) {
 
 /**
  * Check for the plugin dependency.
- *
- * This plugin, in its original form, works with Burcon Outfitters.
- * If you have renamed the parent plugin then change the following check
- * to your new directory name and core plugin file name.
- *
- * @link   https://github.com/ControlledChaos/controlled-chaos-plugin
  *
  * Add an admin error notice if the parent plugin is not active.
  *
